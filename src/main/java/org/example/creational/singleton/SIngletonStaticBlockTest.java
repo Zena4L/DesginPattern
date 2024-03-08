@@ -8,4 +8,21 @@ public class SIngletonStaticBlockTest {
         System.out.println(instance2);
         System.out.println(instance1);
     }
+
+    public static class SingletonThreadSafe {
+        private static SingletonThreadSafe threadSafeInstance;
+
+        private SingletonThreadSafe() {
+
+        }
+
+        public static SingletonThreadSafe getInstance() {
+            synchronized (SingletonThreadSafe.class) {
+                if (threadSafeInstance == null) {
+                    threadSafeInstance = new SingletonThreadSafe();
+                }
+            }
+            return threadSafeInstance;
+        }
+    }
 }
