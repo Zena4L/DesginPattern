@@ -3,3 +3,17 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+r
+Bsrc/main/java/org/example/creational/singleton/SingletonEager.java,b\3\b3338c1252d39c9980a6dd8af5f64afa05b3a922
+v
+Fsrc/main/java/org/example/creational/singleton/SingletonEagerTest.java,f\8\f8da8feada5fa1526022ac4c01e1eb41f583e7fa
+x
+Hsrc/main/java/org/example/creational/singleton/SingletonStaticBlock.java,2\e\2eba7bf8ce65e006a48a63b353cfbe1004cf9770
+|
+Lsrc/main/java/org/example/creational/singleton/SIngletonStaticBlockTest.java,9\a\9ae39ab72cbd5d236c44530aa0e5d746273197d2
+q
+Asrc/main/java/org/example/creational/singleton/SingletonLazy.java,4\2\425b429af3af397dc96b051fb5cff0a309cd306b
+u
+Esrc/main/java/org/example/creational/singleton/SingletonLazyTest.java,2\7\276dd6b93a6e203483061b20d2af9eec35420a26
+w
+Gsrc/main/java/org/example/creational/singleton/SingletonThreadSafe.java,7\f\7f9e471bb23547759d2d44db7ddb4f7e970aec18
