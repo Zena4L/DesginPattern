@@ -1,0 +1,11 @@
+
+o
+java:S1104"RMake wheels a static final constant or non-public and provide accessors if needed.(ş”ÿÔ8í‘¿íá1
+s
+java:S1104"QMake price a static final constant or non-public and provide accessors if needed.(×ß–Öùÿÿÿÿ8î‘¿íá1
+V
+java:S5993"9Change the visibility of this constructor to "protected".(ãÎÑ‹8ğ‘¿íá1
+V
+java:S5993"9Change the visibility of this constructor to "protected".(ı¾‚¯8ğ‘¿íá1
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(òš£Ğ8¹Âíá1

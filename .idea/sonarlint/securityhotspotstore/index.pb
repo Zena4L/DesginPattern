@@ -71,3 +71,11 @@ s
 Csrc/main/java/org/example/creational/builder/AppartmentBuilder.java,a\a\aa3436782c20f3d0032ab07254e34ba14717f6c3
 h
 8src/main/java/org/example/creational/builder/Client.java,f\0\f07c05a1e15a7e7451154219e224cd257b5f9e66
+l
+<src/main/java/org/example/creational/prototype/Vechicle.java,a\9\a98dcb3e4c81e23de329b15af28443ea1cf17a8a
+g
+7src/main/java/org/example/creational/prototype/Car.java,e\3\e3206d1557e0c3baf34c5f25dcb1789ce38bacbc
+k
+;src/main/java/org/example/creational/prototype/Bicycle.java,d\1\d165f7aff4f64985ff1023f50f2c3b3270f764da
+j
+:src/main/java/org/example/creational/prototype/Client.java,9\7\977016813e2cd820422e72cb2afdcc3f1da71a28
