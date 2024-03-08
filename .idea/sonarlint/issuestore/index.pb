@@ -65,3 +65,9 @@ p
 @src/main/java/org/example/creational/abstractfactory/Client.java,d\3\d34b4f6031a65bf3a3f140fdd79ba1bb777566e4
 t
 Dsrc/main/java/org/example/creational/abstractfactory/ClientTest.java,3\2\3226eb19eadb5ebb270c24390e757ec8cc967f33
+k
+;src/main/java/org/example/creational/builder/Apartment.java,3\6\360bc61ccad96deb45f12c17dcd8962944a592ce
+s
+Csrc/main/java/org/example/creational/builder/AppartmentBuilder.java,a\a\aa3436782c20f3d0032ab07254e34ba14717f6c3
+h
+8src/main/java/org/example/creational/builder/Client.java,f\0\f07c05a1e15a7e7451154219e224cd257b5f9e66
